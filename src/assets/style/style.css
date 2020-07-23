@@ -1,4 +1,3 @@
-body{
-    margin: 0;
-    padding: 0;
-    }
+*{padding: 0;margin: 0;box-sizing: border-box; font-size: 14px;text-decoration: none;color:#505050;}
+.container {max-width: 1140px;width: 100%;margin: auto;padding: 0 15px;}
+.sidenav_main{float: left;width:100%;}

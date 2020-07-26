@@ -2,4 +2,8 @@
 .table_sub .head{margin-bottom: 20px;}
 .table_sub .head h1{float: left;font-size: 24px;}
 .table_sub .head button{float: right;width: 100px;border-radius: 5px;}
-.table-nav .dropdown-menu{left: -50px;}
+.table-nav .navbar {background-color:#323b52;}
+.table-nav .navbar-light .navbar-brand {color: #fff;}
+.table-nav .navbar-light .navbar-nav .nav-link{color: #fff;border: 1px solid #fff;}
+.table-data a{border: 1px solid #ccc;padding: 10px 5px 5px 5px;margin-right: 5px;text-decoration: none;}
+.table-data a svg{font-size: 24px;}

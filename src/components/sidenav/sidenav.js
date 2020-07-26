@@ -8,7 +8,7 @@ export default()=>{
                 <img src={require('../../assets/images/ISC_logo.png')} />
             </a>
             <ul>
-                <a href="#"><li><img className="deactive" src={require('../../assets/images/dashboard.png')} /> <img className= "active1" src={require('../../assets/images/dashboardactive.png')} /> Dashboard </li></a>
+                <a href="/header"><li><img className="deactive" src={require('../../assets/images/dashboard.png')} /> <img className= "active1" src={require('../../assets/images/dashboardactive.png')} /> Dashboard </li></a>
                 <a href="#"><li><img className="deactive" src={require('../../assets/images/admin.png')} /> <img className= "active1" src={require('../../assets/images/adminactive.png')} /> Administrator </li></a>
             </ul>
         </div>
